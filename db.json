@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": "senior_ayan",
+      "name": "Ayan Srivastava",
+      "email": "ayan.dsu@mmmut.ac.in",
+      "rollNumber": "2022021045",
+      "branch": "Computer Science & Engineering",
+      "role": "admin",
+      "points": 1540,
+      "completedProblems": [
+        "arr_1",
+        "arr_2",
+        "ll_1",
+        "dp_1"
+      ],
+      "notes": []
+    },
+    {
+      "id": "senior_ritika",
+      "name": "Ritika Mishra",
+      "email": "ritika.cp@mmmut.ac.in",
+      "rollNumber": "2022011032",
+      "branch": "Information Technology",
+      "role": "student",
+      "points": 1210,
+      "completedProblems": [
+        "arr_1",
+        "ll_1",
+        "graph_1"
+      ],
+      "notes": []
+    },
+    {
+      "id": "guest_user",
+      "name": "Guest Coder",
+      "email": "guest@mmmut.ac.in",
+      "rollNumber": "2025011001",
+      "branch": "Computer Science",
+      "role": "student",
+      "points": 180,
+      "completedProblems": [
+        "arr_1"
+      ],
+      "notes": []
+    }
+  ],
+  "announcements": [
+    {
+      "id": "a_1",
+      "title": "CodeSpree v4.0 - Annual Coding Showdown",
+      "content": "Gear up! DSU's yearly competitive coding combat is coming live this Sunday on CodeChef. Cash rewards and elite certificates for top MMMUT freshers!",
+      "category": "contest",
+      "date": "2026-05-28",
+      "author": "Ayan Srivastava"
+    },
+    {
+      "id": "a_2",
+      "title": "Intro To GSoC & Open Source Workshop",
+      "content": "Join our interactive workshop in the IT Seminar Hall. Learn how to crack Google Summer of Code from seniors who already made it!",
+      "category": "workshop",
+      "date": "2026-05-30",
+      "author": "Ritika Mishra"
+    },
+    {
+      "id": "a_3",
+      "title": "DSU Alumni Spotlights - FAANG Experts",
+      "content": "Proud moment: Our core members got offered software roles at Google India & Amazon. Stay tuned for their upcoming interview AMA session!",
+      "category": "achievement",
+      "date": "2026-05-25",
+      "author": "DSU Core"
+    }
+  ],
+  "resources": [
+    {
+      "id": "res_1",
+      "title": "Striver's A2Z DSA Sheet Companion Video Lectures",
+      "category": "Playlist",
+      "tags": [
+        "DSA",
+        "Striver",
+        "Placement"
+      ],
+      "link": "https://www.youtube.com/playlist?list=PLgUwDviBHe0oF569_d_Yi_XQU9L_yG08L",
+      "author": "Ayan Srivastava",
+      "likes": 34
+    },
+    {
+      "id": "res_2",
+      "title": "CP-Algorithms English Mirror - Crucial Algorithms & Implementations",
+      "category": "Resource",
+      "tags": [
+        "CP",
+        "Algorithms",
+        "Math"
+      ],
+      "link": "https://cp-algorithms.com/",
+      "author": "Ayan Srivastava",
+      "likes": 27
+    },
+    {
+      "id": "res_3",
+      "title": "Interactive Git & GitHub Visual Playground",
+      "category": "Template",
+      "tags": [
+        "Git",
+        "Web Dev",
+        "OpenSource"
+      ],
+      "link": "https://learngitbranching.js.org/",
+      "author": "Ritika Mishra",
+      "likes": 19
+    }
+  ]
+}

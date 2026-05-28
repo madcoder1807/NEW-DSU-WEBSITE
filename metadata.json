@@ -1,0 +1,6 @@
+{
+  "name": "DSU - Technical Society Dashboard",
+  "description": "Premium modern full-stack college technical society platform for Disjoint Set Union (DSU), the proud coding community of MMMUT College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
